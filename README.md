@@ -2,4 +2,8 @@
 
 The application doesn't use authentication.
 
-
+#Used: 
+    Symfony 3.4
+    Doctrine with SQLite
+    Twig
+    PHP 7.0
