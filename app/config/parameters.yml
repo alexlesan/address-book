@@ -1,0 +1,18 @@
+# This file is auto-generated during the composer install
+parameters:
+# picture upload
+    upload_directory: '%kernel.project_dir%/web/uploads/contact'
+    
+# database
+    database_driver: pdo_sqlite
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: address_book
+    database_user: root
+    database_path: '%kernel.project_dir%/var/data/data.sqlite'
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 133653203177fc46f906b5a4f0616d4b51c72145
